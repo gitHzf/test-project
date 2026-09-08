@@ -10,5 +10,9 @@ print(f'NULL={NULL}')
 str='hello world \"hello\"'
 print(f'str={str}')
 print(str)
-int a=20
-print(a)
+
+#修改错误：a0=100
+#int a=20
+#print(a)
+#修改错误：a0=100
+print(a0)
