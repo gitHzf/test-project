@@ -10,4 +10,5 @@ print(f'NULL={NULL}')
 str='hello world \"hello\"'
 print(f'str={str}')
 print(str)
-
+int a=20
+print(a)
