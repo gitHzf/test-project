@@ -16,3 +16,5 @@ print(str)
 #print(a)
 #修改错误：a0=100
 print(a0)
+b0=123
+print(b0)
